@@ -42,3 +42,9 @@ Clone this repository and customize it according to your project requirements. Y
 
 ```bash
 git clone https://github.com/yourusername/responsive-news-template.git
+
+## Contributing
+- Feel free to fork this repository and submit pull requests. We welcome contributions that enhance the template and add new features.
+
+## License
+- This project is licensed under the MIT License - see the LICENSE file for details.
