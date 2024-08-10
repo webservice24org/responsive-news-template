@@ -23,6 +23,20 @@ Take a look at the screenshots below to see the template in action:
 ![Category Page](screenshots/img3.png)
 *Category Page*
 
+![Category Page](screenshots/img4.png)
+
+![Category Page](screenshots/img5.png)
+
+![Category Page](screenshots/img6.png)
+
+![Category Page](screenshots/img7.png)
+
+![Category Page](screenshots/img8.png)
+
+![Category Page](screenshots/img9.png)
+
+![Category Page](screenshots/img10.png)
+
 ## Getting Started
 Clone this repository and customize it according to your project requirements. You can easily integrate it with any CMS or backend framework of your choice.
 
